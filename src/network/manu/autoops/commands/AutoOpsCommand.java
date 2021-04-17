@@ -38,6 +38,7 @@ public class AutoOpsCommand implements CommandExecutor {
                     break;
                 }
                 AutoOps.autoOps.insertOne(new Op(player.getUniqueId()));
+                player.setOp(true);
             } return true;
 
             case "remove": {
