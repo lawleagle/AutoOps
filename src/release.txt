@@ -1,0 +1,6 @@
+
+RELEASE 1.0.0
+=============
+- added /autoop add <player>
+- added /autoop remove <player>
+- added release.txt

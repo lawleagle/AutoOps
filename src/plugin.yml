@@ -1,0 +1,12 @@
+name: AutoOps
+version: 1.0.0
+author: Manu
+main: network.manu.autoops.AutoOps
+api-version: 1.8.8
+depend:
+website: manu.network/plugins/AutoOps
+commands:
+  autoops:
+    description: adds/removes a user to/from autoops
+    usage: /autoops <add/remove> <player>
+    permission: autoops.modify

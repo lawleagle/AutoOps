@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AutoOps:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AutoOps_jar</output-path>
+    <root id="archive" name="AutoOps.jar">
+      <element id="module-output" name="AutoOps" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/jars/lombok.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/jars/spigot-api-1.8.8-R0.1-20160221.082514-43.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/jars/mongodb-driver-sync-4.2.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/jars/mongodb-driver-core-4.2.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/jars/bson-4.2.3.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
